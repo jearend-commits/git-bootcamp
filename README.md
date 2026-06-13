@@ -1,2 +1,2 @@
 # Git Bootcamp Course
-This repository is for tracking my Git and GitHub learning progress.
+This is a local edit made on my Mac.
